@@ -1,0 +1,6 @@
+node_modules/
+data/session-secret
+data/users.json
+data/uploads.log
+*.log
+.DS_Store
